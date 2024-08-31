@@ -1,0 +1,3 @@
+C:\Users\Lenovo\OneDrive\Documents\Desktop>git clone https://github.com/gitparii/backend_G8.git
+C:\Users\Lenovo\OneDrive\Documents\Desktop>cd backend_G8
+C:\Users\Lenovo\OneDrive\Documents\Desktop\backend_G8>code .
